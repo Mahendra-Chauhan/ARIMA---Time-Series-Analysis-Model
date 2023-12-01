@@ -1,2 +1,2 @@
 # ARIMA---Time-Series-Analysis-Model
-There are a number of passengers for a particular airways company with respect to the month and year. And we need to predict the number of passengers will increase or decrease in the next 4-5 years.
+The task involves analyzing the passenger data for a specific airline over a given month and year. The objective is to forecast whether the number of passengers will experience an increase or decrease in the upcoming four to five years.
